@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 038b3d185ef21f649acee24b103d8350
+  - enabled: 1
+    path: Assets/Scenes/STORY.unity
+    guid: a6062dee5b3b821489121233f3c7ea68
+  - enabled: 1
+    path: Assets/Scenes/VERSUS.unity
+    guid: b82f9a1fed8921e499a0398759229628
+  - enabled: 1
+    path: Assets/Scenes/Setting Menu.unity
+    guid: 7b6fd9cc4b115f94f8dd43a8d231aa06
+  - enabled: 1
+    path: Assets/Scenes/Character Selection.unity
+    guid: aed3d50cb9d0eb94a843ebc6a6814709
+  - enabled: 1
+    path: Assets/Scenes/STORY NEW GAME.unity
+    guid: 297d1d96dac17e042b741e0c5ff6dab4
+  - enabled: 1
+    path: Assets/Scenes/STORY LOAD GAME.unity
+    guid: 2297415cbb489734bb18416d0408cc36
+  m_configObjects: {}
